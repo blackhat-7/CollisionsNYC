@@ -1,2 +1,2 @@
 # CollisionsNYC
-![alt text](https://github.com/blackhat-7/CollisionsNYC/title.png)
+![image](https://github.com/blackhat-7/CollisionsNYC/blob/master/title.png?raw=true)
